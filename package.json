@@ -1,0 +1,18 @@
+{
+  "name": "test_app",
+  "version": "0.0.1",
+  "description": "Just a test appliaction to see if this dev workflow is actually workable.",
+  "main": "index.js",
+  "author": "Jarvis Prestidge",
+  "license": "MIT",
+  "dependencies": {
+    "babel-polyfill": "^6.20.0",
+    "koa": "next"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-3": "^6.17.0",
+    "babel-register": "^6.18.0"
+  }
+}
